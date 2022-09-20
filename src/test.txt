@@ -1,0 +1,11 @@
+total 120
+-rwxr-xr-x 1 magesh magesh 38688 Aug 15 15:42 hello
+-rw-r--r-- 1 magesh magesh    95 Aug 15 15:36 hello.cpp
+-rwxr-xr-x 1 magesh magesh 17400 Sep  1 18:56 system
+-rw-r--r-- 1 magesh magesh   260 Sep  1 18:56 system.cpp
+-rwxr-xr-x 1 magesh magesh 18096 Sep  2 12:23 system_example
+-rw-r--r-- 1 magesh magesh   255 Sep  2 12:23 system_example.cpp
+-rwxr-xr-x 1 magesh magesh 16688 Aug 16 18:24 test
+-rw-r--r-- 1 magesh magesh    85 Aug 16 18:25 test.c
+-rwxr-xr-x 1 magesh magesh    55 Sep  1 18:57 test.sh
+-rw-r--r-- 1 magesh magesh     0 Sep  2 12:23 test.txt
