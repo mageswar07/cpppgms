@@ -2,7 +2,7 @@
 
 
 class myclass {
-    int a;
+    int a=1;
     public:
     void set_a(int x) {
         a = x;
@@ -13,8 +13,12 @@ class myclass {
 };
 
 int main() {
-myclass obj;
-obj.set_a(10);
-std::cout << "a = " << obj.get_a() << std::endl;
+    myclass obj;
+    std::cout << "a = " << obj.get_a() << std::endl;
+    obj.set_a(10);
+    std::cout << "a = " << obj.get_a() << std::endl;
+    obj.set_a(11);
+    std::cout << "a = " << obj.get_a() << std::endl;
+
     return 0;
 }
